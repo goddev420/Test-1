@@ -1,0 +1,11 @@
+{
+  "name": "solana-token-sniper",
+  "version": "1.0.0",
+  "description": "Solana Token Sniper Application",
+  "scripts": {
+    "start": "echo 'Frontend is running at http://localhost:3000' && http-server frontend"
+  },
+  "dependencies": {
+    "phantom-wallet": "^1.0.0"
+  }
+}
