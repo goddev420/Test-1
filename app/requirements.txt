@@ -1,0 +1,5 @@
+tweepy==4.14.0
+solana==0.25.1
+cryptography==41.0.3
+aiohttp==3.8.5
+asyncio==3.4.3
